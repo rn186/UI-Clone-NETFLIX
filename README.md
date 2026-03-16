@@ -1,1 +1,3 @@
 # UI-Clone-NETFLIX
+
+I "re-discovered " concepts like scroll-button , anchoring substitute to postioning , clamp( ) function , open attribute ,and many more while making this appliacation & overall it was great experience making my 1st UI-clone
